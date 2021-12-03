@@ -1,0 +1,2 @@
+#define example_6_VERSION_MAJOR @example_6_VERSION_MAJOR@
+#define example_6_VERSION_MINOR @example_6_VERSION_MINOR@
